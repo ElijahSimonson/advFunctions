@@ -11,17 +11,17 @@ public class Reference {
 	public static final String SERVER_PROXY_CLASS = "nz.castorgaming.advFunctions.proxy.ServerProxy";
 	
 	//Items
-	public static enum AdvFunctionsItems {
-		RUBBERBALL("rubberBall", "ItemRubberBall"),
-		RUBY("ruby", "ItemRuby");
+	public static enum AdvFuncItems {
+		
+		OBSIDIANINGOT("obsidianingot", "ItemObsidianingot"),
+		RUBBERBALL("rubberBall", "ItemRubberBall");
 		
 		private String unlocalizedName;
 		private String registryName;
 		
-		AdvFunctionsItems(String unlocalizedName, String registryName){
+		AdvFuncItems(String unlocalizedName, String registryName){
 			this.unlocalizedName = unlocalizedName;
 			this.registryName = registryName;
-		
 		}
 		
 		public String getUnlocalizedName(){
@@ -31,6 +31,7 @@ public class Reference {
 		public String getRegistryName(){
 			return registryName;
 		}
+		
 	}
 	
 }
