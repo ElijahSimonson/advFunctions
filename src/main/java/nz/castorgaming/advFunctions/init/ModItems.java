@@ -4,6 +4,7 @@ import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.registry.GameRegistry;
+import nz.castorgaming.advFunctions.AdvFunctions;
 import nz.castorgaming.advFunctions.items.ItemObsidianingot;
 import nz.castorgaming.advFunctions.items.ItemRubberBall;
 
@@ -19,8 +20,13 @@ public class ModItems {
 	}
 	
 	public static void register(){
-		GameRegistry.register(obsidianingot);
-		GameRegistry.register(rubberBall);
+		registerItem(obsidianingot);
+		registerItem(rubberBall);
+	}
+	
+	public static void registerItem(Item item){
+		GameRegistry.register(item);
+		item.setCreativeTab(AdvFunctions.tabAdvFuncItems);
 	}
 	
 	public static void registerRenders(){

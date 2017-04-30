@@ -11,6 +11,9 @@ public class BlockRubber extends Block{
 		
 		setUnlocalizedName(Reference.AdvFuncBlocks.RUBBERBLOCK.getUnlocalizedName());
 		setRegistryName(Reference.AdvFuncBlocks.RUBBERBLOCK.getRegistryName());
+		setHardness(5.0F);
+		setResistance(20.0F);
+		setLightOpacity(16);
 		
 	}
 

@@ -6,6 +6,7 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 import net.minecraftforge.fml.common.registry.GameRegistry;
+import nz.castorgaming.advFunctions.AdvFunctions;
 import nz.castorgaming.advFunctions.blocks.BlockRubber;
 
 
@@ -27,6 +28,7 @@ public class ModBlocks {
 		ItemBlock item = new ItemBlock(block);
 		item.setRegistryName(block.getRegistryName());
 		GameRegistry.register(item);
+		block.setCreativeTab(AdvFunctions.tabAdvFuncBlocks);
 	}
 	
 	public static void registerRenders(){
