@@ -1,5 +1,6 @@
 package nz.castorgaming.advFunctions.proxy;
 
+import nz.castorgaming.advFunctions.init.ModBlocks;
 import nz.castorgaming.advFunctions.init.ModItems;
 
 public class ClientProxy implements CommonProxy{
@@ -8,6 +9,7 @@ public class ClientProxy implements CommonProxy{
 	public void init() {
 		
 		ModItems.registerRenders();
+		ModBlocks.registerRenders();
 		
 	}
 

@@ -7,6 +7,7 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import nz.castorgaming.advFunctions.init.ModBlocks;
 import nz.castorgaming.advFunctions.init.ModItems;
 import nz.castorgaming.advFunctions.proxy.CommonProxy;
 
@@ -26,6 +27,8 @@ public class AdvFunctions {
 		
 		ModItems.init();
 		ModItems.register();
+		ModBlocks.init();
+		ModBlocks.register();
 		
 	}
 	
