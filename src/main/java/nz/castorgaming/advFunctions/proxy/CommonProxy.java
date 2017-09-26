@@ -1,7 +1,10 @@
 package nz.castorgaming.advFunctions.proxy;
 
-public interface CommonProxy {
+import net.minecraft.item.Item;
 
-	public void init();
+public class CommonProxy {
+
+	public void registerItemRenderer(Item item, int meta, String id){};
+	
 	
 }

@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "caf:items/obsidianingot"
+        "layer0": "caf:items/ball_rubber"
      },
       
     "display": {

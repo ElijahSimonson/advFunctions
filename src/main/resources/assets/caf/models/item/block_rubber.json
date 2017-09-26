@@ -1,6 +1,6 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"all": "caf:blocks/rubberblock"
+		"all": "caf:blocks/block_rubber"
 	}
 }

@@ -1,14 +1,14 @@
 [
 {
-  "modid": "caf",
-  "name": "Advanced Function",
+  "modid": "examplemod",
+  "name": "Example Mod",
   "description": "Example placeholder mod.",
-  "version": "1.0",
-  "mcversion": "1.11.2",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["castor520"],
-  "credits": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
