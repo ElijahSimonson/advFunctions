@@ -1,7 +1,84 @@
+itemGroup.advFuncBlocks=Advanced Functions Blocks
+itemGroup.advFuncItems=Advanced Functions Items
+itemGroup.advFuncTools=Advanced Functions Tools
+itemGroup.advFuncArmors=Advanced Functions Armors
+
 item.ingot_obsidian.name=Obsidian Ingot
-item.ball_rubber.name=Rubber Ball
+item.ingot_copper.name=Copper Ingot
+item.ingot_tin.name=Tin Ingot
+item.ingot_silver.name=Silver Ingot
+item.ingot_lead.name=Lead Ingot
+item.ingot_ferrous.name=Ferrous Ingot
+item.ingot_platinum.name=Platinum Ingot
+item.ingot_electrum.name=Electrum Ingot
+item.ingot_resonant.name=Resonant Ingot
+item.ingot_redstone.name=Redstone Ingot
+item.ingot_diamantine.name=Diamantine Ingot
+item.ingot_bronze.name=Bronze Ingot
+item.ingot_radiant.name=Radiant Ingot
+
+item.axe_obsidian.name=Obsidian Axe
+item.shovel_obsidian.name=Obsidian Shovel
+item.pickaxe_obsidian.name=Obsidian Pickaxe
+item.hoe_obsidian.name=Obsidian Hoe
+item.sword_obsidian.name=Obsidian Sword
+item.helmet_obsidian.name=Obsidian Helmet
+item.chestplate_obsidian.name=Obsidian Chestplate
+item.leggings_obsidian.name=Obsidian Leggings
+item.boots_obsidian.name=Obsidian Boots
+
+item.axe_copper.name=Copper Axe
+item.shovel_copper.name=Copper Shovel
+item.pickaxe_copper.name=Copper Pickaxe
+item.hoe_copper.name=Copper Hoe
+item.sword_copper.name=Copper Sword
+item.helmet_copper.name=Copper Helmet
+item.chestplate_copper.name=Copper Chestplate
+item.leggings_copper.name=Copper Leggings
+item.boots_copper.name=Copper Boots
+
+item.axe_bronze.name=Bronze Axe
+item.shovel_bronze.name=Bronze Shovel
+item.pickaxe_bronze.name=Bronze Pickaxe
+item.hoe_bronze.name=Bronze Hoe
+item.sword_bronze.name=Bronze Sword
+item.helmet_bronze.name=Bronze Helmet
+item.chestplate_bronze.name=Bronze Chestplate
+item.leggings_bronze.name=Bronze Leggings
+item.boots_bronze.name=Bronze Boots
+
+item.axe_resonant.name=Resonant Axe
+item.shovel_resonant.name=Resonant Shovel
+item.pickaxe_resonant.name=Resonant Pickaxe
+item.hoe_resonant.name=Resonant Hoe
+item.sword_resonant.name=Resonant Sword
+item.helmet_resonant.name=Resonant Helmet
+item.chestplate_resonant.name=Resonant Chestplate
+item.leggings_resonant.name=Resonant Leggings
+item.boots_resonant.name=Resonant Boots
+
+item.axe_diamantine.name=Diamantine Axe
+item.shovel_diamantine.name=Diamantine Shovel
+item.pickaxe_diamantine.name=Diamantine Pickaxe
+item.hoe_diamantine.name=Diamantine Hoe
+item.sword_diamantine.name=Diamantine Sword
+item.helmet_diamantine.name=Diamantine Helmet
+item.chestplate_diamantine.name=Diamantine Chestplate
+item.leggings_diamantine.name=Diamantine Leggings
+item.boots_diamantine.name=Diamantine Boots
+
+item.axe_radiant.name=Radiant Axe
+item.shovel_radiant.name=Radiant Shovel
+item.pickaxe_radiant.name=Radiant Pickaxe
+item.hoe_radiant.name=Radiant Hoe
+item.sword_radiant.name=Radiant Sword
+item.helmet_radiant.name=Radiant Helmet
+item.chestplate_radiant.name=Radiant Chestplate
+item.leggings_radiant.name=Radiant Leggings
+item.boots_radiant.name=Radiant Boots
 
 tile.block_rubber.name=Block of Rubber
 
-itemGroup.tab_advFuncBlocks=Advanced Functions Blocks
-itemGroup.tab_advFuncItems=Advanced Functions Items
+item.ball_rubber.name=Rubber Ball
+
+

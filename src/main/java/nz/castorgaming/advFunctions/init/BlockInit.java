@@ -12,6 +12,10 @@ public class BlockInit {
 	public static final List<Block> BLOCKS = new ArrayList<Block>(); 
 	
 	//Metal Blocks
+	public static final Block BLOCK_COPPER = new BlockBase("block_copper", Material.IRON);
+	
+	//Mineral Blocks
+	public static final Block BLOCK_DIAMANTINE = new BlockBase("block_diamantine", Material.ROCK);
 	
 	//Misc Blocks
 	public static final Block BLOCK_RUBBER = new BlockBase("block_rubber", Material.GROUND);
