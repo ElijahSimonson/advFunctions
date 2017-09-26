@@ -34,4 +34,27 @@ public class Reference {
 		
 	}
 	
+	//Blocks
+	public static enum AdvFuncBlocks {
+		
+		RUBBERBLOCK("rubberBlock", "BlockRubber");
+		
+		private String unlocalizedName;
+		private String registryName;
+		
+		AdvFuncBlocks(String unlocalizedName, String registryName){
+			this.unlocalizedName = unlocalizedName;
+			this.registryName = registryName;
+		}
+		
+		public String getUnlocalizedName(){
+			return unlocalizedName;
+		}
+		
+		public String getRegistryName(){
+			return registryName;
+		}
+		
+	}
+	
 }

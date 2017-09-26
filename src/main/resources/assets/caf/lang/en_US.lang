@@ -1,2 +1,7 @@
 item.obsidianingot.name=Obsidian Ingot
 item.rubberBall.name=Rubber Ball
+
+tile.rubberBlock.name=Block of Rubber
+
+itemGroup.tab_advFuncBlocks=Advanced Functions Blocks
+itemGroup.tab_advFuncItems=Advanced Functions Items

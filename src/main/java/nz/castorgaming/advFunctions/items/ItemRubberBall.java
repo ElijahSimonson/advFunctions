@@ -9,7 +9,6 @@ public class ItemRubberBall extends Item{
 		
 		setUnlocalizedName(Reference.AdvFuncItems.RUBBERBALL.getUnlocalizedName());
 		setRegistryName(Reference.AdvFuncItems.RUBBERBALL.getRegistryName());
-		
 	}
 	
 }

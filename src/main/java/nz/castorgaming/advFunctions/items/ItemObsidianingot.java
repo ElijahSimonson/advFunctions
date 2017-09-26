@@ -9,7 +9,6 @@ public class ItemObsidianingot extends Item{
 		
 		setUnlocalizedName(Reference.AdvFuncItems.OBSIDIANINGOT.getUnlocalizedName());
 		setRegistryName(Reference.AdvFuncItems.OBSIDIANINGOT.getRegistryName());
-		
 	}
 	
 }
