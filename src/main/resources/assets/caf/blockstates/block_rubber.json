@@ -1,7 +1,7 @@
 {
 	"variants": {
 		"normal" : {
-			"model": "caf:rubberBlock"
+			"model": "caf:block_rubber"
 		}
 	}
 }
